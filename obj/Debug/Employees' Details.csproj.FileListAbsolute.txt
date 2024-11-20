@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Employees' Details\Employees' Details\bin\Debug\Employees' Details.exe.config
+C:\Users\DELL\source\repos\Employees' Details\Employees' Details\bin\Debug\Employees' Details.exe
+C:\Users\DELL\source\repos\Employees' Details\Employees' Details\bin\Debug\Employees' Details.pdb
+C:\Users\DELL\source\repos\Employees' Details\Employees' Details\obj\Debug\Employees' Details.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Employees' Details\Employees' Details\obj\Debug\Employees' Details.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Employees' Details\Employees' Details\obj\Debug\Employees' Details.exe
+C:\Users\DELL\source\repos\Employees' Details\Employees' Details\obj\Debug\Employees' Details.pdb
